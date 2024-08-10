@@ -21,4 +21,7 @@ ESP32-WROOM
 5. 4.7k ohm resistor for DS18B20 (important)
 # Main functionalities
 1. Automated water quality regulation
-2. Automated fish feeding
+2. Automated fish feeding based on time
+
+# Block Diagram
+![block diagram](./block_diagram.png)
