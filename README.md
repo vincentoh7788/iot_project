@@ -19,3 +19,6 @@ ESP32-WROOM
 3. DC Power supply for water pump
 4. AC to DC adapter for air pump
 5. 4.7k ohm resistor for DS18B20 (important)
+# Main functionalities
+1. Automated water quality regulation
+2. Automated fish feeding
